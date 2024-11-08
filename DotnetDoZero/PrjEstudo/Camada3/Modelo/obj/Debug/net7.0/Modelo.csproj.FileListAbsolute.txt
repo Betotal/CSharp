@@ -1,0 +1,12 @@
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\bin\Debug\net7.0\Modelo.deps.json
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\bin\Debug\net7.0\Modelo.dll
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\bin\Debug\net7.0\Modelo.pdb
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\obj\Debug\net7.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfoInputs.cache
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfo.cs
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\obj\Debug\net7.0\Modelo.csproj.CoreCompileInputs.cache
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\obj\Debug\net7.0\Modelo.dll
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\obj\Debug\net7.0\refint\Modelo.dll
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\obj\Debug\net7.0\Modelo.pdb
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\obj\Debug\net7.0\ref\Modelo.dll
+D:\Curso\DotnetDoZero\PrjEstudo\Camada3\Modelo\obj\Debug\net7.0\Modelo.csproj.AssemblyReference.cache

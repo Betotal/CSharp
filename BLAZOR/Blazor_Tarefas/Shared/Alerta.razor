@@ -1,0 +1,24 @@
+<div>
+    @if(Conteudo1 == null)
+    {
+        <span style="color:brown"> Texto Padrão</span>
+    } else
+    {
+        @Conteudo1
+    }
+</div>
+
+<div>
+    @if(Conteudo2 == null)
+    {
+        <span style="color:pink"> Texto Padrão</span>
+    } else
+    {
+        @Conteudo2
+    }
+</div>
+
+@code {
+    [Parameter] public RenderFragment Conteudo1 { get; set; }
+    [Parameter] public RenderFragment Conteudo2 { get; set; }
+}

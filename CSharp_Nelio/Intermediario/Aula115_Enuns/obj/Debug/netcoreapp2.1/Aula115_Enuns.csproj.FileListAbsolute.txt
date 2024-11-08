@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\bin\Debug\netcoreapp2.1\Aula115_Enuns.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\bin\Debug\netcoreapp2.1\Aula115_Enuns.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\bin\Debug\netcoreapp2.1\Aula115_Enuns.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\bin\Debug\netcoreapp2.1\Aula115_Enuns.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\bin\Debug\netcoreapp2.1\Aula115_Enuns.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\obj\Debug\netcoreapp2.1\Aula115_Enuns.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\obj\Debug\netcoreapp2.1\Aula115_Enuns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\obj\Debug\netcoreapp2.1\Aula115_Enuns.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\obj\Debug\netcoreapp2.1\Aula115_Enuns.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\obj\Debug\netcoreapp2.1\Aula115_Enuns.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\obj\Debug\netcoreapp2.1\Aula115_Enuns.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\obj\Debug\netcoreapp2.1\Aula115_Enuns.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula115_Enuns\obj\Debug\netcoreapp2.1\Aula115_Enuns.genruntimeconfig.cache

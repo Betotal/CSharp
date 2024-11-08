@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\bin\Debug\netcoreapp2.1\Aula_196.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\bin\Debug\netcoreapp2.1\Aula_196.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\bin\Debug\netcoreapp2.1\Aula_196.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\bin\Debug\netcoreapp2.1\Aula_196.dll
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\bin\Debug\netcoreapp2.1\Aula_196.pdb
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\obj\Debug\netcoreapp2.1\Aula_196.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\obj\Debug\netcoreapp2.1\Aula_196.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\obj\Debug\netcoreapp2.1\Aula_196.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\obj\Debug\netcoreapp2.1\Aula_196.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\obj\Debug\netcoreapp2.1\Aula_196.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\obj\Debug\netcoreapp2.1\Aula_196.dll
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\obj\Debug\netcoreapp2.1\Aula_196.pdb
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\Aula_196\obj\Debug\netcoreapp2.1\Aula_196.genruntimeconfig.cache

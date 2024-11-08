@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\obj\Debug\netcoreapp2.1\Aula125_Heranca.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\obj\Debug\netcoreapp2.1\Aula125_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\obj\Debug\netcoreapp2.1\Aula125_Heranca.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\obj\Debug\netcoreapp2.1\Aula125_Heranca.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\obj\Debug\netcoreapp2.1\Aula125_Heranca.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\bin\Debug\netcoreapp2.1\Aula125_Heranca.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\bin\Debug\netcoreapp2.1\Aula125_Heranca.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\bin\Debug\netcoreapp2.1\Aula125_Heranca.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\bin\Debug\netcoreapp2.1\Aula125_Heranca.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\bin\Debug\netcoreapp2.1\Aula125_Heranca.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\obj\Debug\netcoreapp2.1\Aula125_Heranca.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\obj\Debug\netcoreapp2.1\Aula125_Heranca.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula125_Heranca\obj\Debug\netcoreapp2.1\Aula125_Heranca.genruntimeconfig.cache

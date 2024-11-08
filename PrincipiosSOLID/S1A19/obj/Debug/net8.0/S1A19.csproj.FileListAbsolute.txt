@@ -1,0 +1,14 @@
+D:\Curso\PrincipiosSOLID\S1A19\obj\Debug\net8.0\S1A19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\PrincipiosSOLID\S1A19\obj\Debug\net8.0\S1A19.AssemblyInfoInputs.cache
+D:\Curso\PrincipiosSOLID\S1A19\obj\Debug\net8.0\S1A19.AssemblyInfo.cs
+D:\Curso\PrincipiosSOLID\S1A19\obj\Debug\net8.0\S1A19.csproj.CoreCompileInputs.cache
+D:\Curso\PrincipiosSOLID\S1A19\bin\Debug\net8.0\S1A19.exe
+D:\Curso\PrincipiosSOLID\S1A19\bin\Debug\net8.0\S1A19.deps.json
+D:\Curso\PrincipiosSOLID\S1A19\bin\Debug\net8.0\S1A19.runtimeconfig.json
+D:\Curso\PrincipiosSOLID\S1A19\bin\Debug\net8.0\S1A19.dll
+D:\Curso\PrincipiosSOLID\S1A19\bin\Debug\net8.0\S1A19.pdb
+D:\Curso\PrincipiosSOLID\S1A19\obj\Debug\net8.0\S1A19.dll
+D:\Curso\PrincipiosSOLID\S1A19\obj\Debug\net8.0\refint\S1A19.dll
+D:\Curso\PrincipiosSOLID\S1A19\obj\Debug\net8.0\S1A19.pdb
+D:\Curso\PrincipiosSOLID\S1A19\obj\Debug\net8.0\S1A19.genruntimeconfig.cache
+D:\Curso\PrincipiosSOLID\S1A19\obj\Debug\net8.0\ref\S1A19.dll

@@ -1,0 +1,55 @@
+@page "/evento1"
+
+<label>Dados de eventos: Pressionea tecla Y, P, R, G or B para mudar a cor</label>
+
+<div style="background-color: @cor; padding: 50px;"></div>
+
+<hr/>
+
+<input type="text" @onkeypress="@(e => Teclapressionada(e))" />
+<label>@Texto</label>
+
+@code{
+    private string cor = "black";
+    public string Texto = "";
+
+    void Teclapressionada(KeyboardEventArgs args)
+    {
+        @* if(args.Key == "B" || args.Key == "b")
+        {
+            cor = "blue";
+           Console.WriteLine("A tecla A/a foi pressionada");
+        } *@
+        switch (args.Key)
+        {
+            case "Y":
+            case "y": cor = "yellow";
+                      Texto = "A tecla Y/y foi presisonada";
+                      break;
+
+            case "P":
+            case "p": cor = "purple";
+                      Texto = "A tecla P/p foi presisonada";
+                      break;
+
+            case "B":
+            case "b": cor = "blue";
+                      Texto = "A tecla B/b foi presisonada";
+                      break;
+
+            case "G":
+            case "g": cor = "green";
+                      Texto = "A tecla G/g foi presisonada";
+                      break;
+
+            case "R":
+            case "r": cor = "red";
+                      Texto = "A tecla R/r foi presisonada";
+                      break;
+
+            default: cor = "black";
+                     Texto = "";
+            break;
+        }
+    }
+}

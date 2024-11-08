@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\bin\Debug\netcoreapp2.1\Aula22.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\bin\Debug\netcoreapp2.1\Aula22.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\bin\Debug\netcoreapp2.1\Aula22.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\bin\Debug\netcoreapp2.1\Aula22.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\bin\Debug\netcoreapp2.1\Aula22.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\obj\Debug\netcoreapp2.1\Aula22.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\obj\Debug\netcoreapp2.1\Aula22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\obj\Debug\netcoreapp2.1\Aula22.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\obj\Debug\netcoreapp2.1\Aula22.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\obj\Debug\netcoreapp2.1\Aula22.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\obj\Debug\netcoreapp2.1\Aula22.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\obj\Debug\netcoreapp2.1\Aula22.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Aula22\obj\Debug\netcoreapp2.1\Aula22.genruntimeconfig.cache

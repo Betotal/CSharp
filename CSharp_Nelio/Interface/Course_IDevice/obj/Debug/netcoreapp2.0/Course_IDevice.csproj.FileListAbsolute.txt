@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\bin\Debug\netcoreapp2.0\Course_IDevice.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\bin\Debug\netcoreapp2.0\Course_IDevice.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\bin\Debug\netcoreapp2.0\Course_IDevice.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\bin\Debug\netcoreapp2.0\Course_IDevice.dll
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\bin\Debug\netcoreapp2.0\Course_IDevice.pdb
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\obj\Debug\netcoreapp2.0\Course_IDevice.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\obj\Debug\netcoreapp2.0\Course_IDevice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\obj\Debug\netcoreapp2.0\Course_IDevice.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\obj\Debug\netcoreapp2.0\Course_IDevice.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\obj\Debug\netcoreapp2.0\Course_IDevice.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\obj\Debug\netcoreapp2.0\Course_IDevice.dll
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\obj\Debug\netcoreapp2.0\Course_IDevice.pdb
+D:\Curso\Visual Studio\CursoCSharp\Interface\Course_IDevice\obj\Debug\netcoreapp2.0\Course_IDevice.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\obj\Debug\net8.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\obj\Debug\net8.0\Pizzaria.AssemblyInfoInputs.cache
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\obj\Debug\net8.0\Pizzaria.AssemblyInfo.cs
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\obj\Debug\net8.0\Pizzaria.csproj.CoreCompileInputs.cache
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\bin\Debug\net8.0\Pizzaria.exe
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\bin\Debug\net8.0\Pizzaria.deps.json
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\bin\Debug\net8.0\Pizzaria.runtimeconfig.json
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\bin\Debug\net8.0\Pizzaria.dll
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\bin\Debug\net8.0\Pizzaria.pdb
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\obj\Debug\net8.0\Pizzaria.dll
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\obj\Debug\net8.0\refint\Pizzaria.dll
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\obj\Debug\net8.0\Pizzaria.pdb
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\obj\Debug\net8.0\Pizzaria.genruntimeconfig.cache
+d:\Curso\CSharp\PrincipiosSOLID\Pizzaria\obj\Debug\net8.0\ref\Pizzaria.dll

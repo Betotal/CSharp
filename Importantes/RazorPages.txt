@@ -1,0 +1,22 @@
+dotnet new razor  -o <nome> - Cria estrutura razor
+dotnet new webapp -o <nome> - Cria estrutura razor
+
+Criar Modelo
+
+Comando para criação do CRUD - Razor Pages
+dotnet aspnet-codegenerator razorpage -m Movie -dc RazorPagesMovie.Data.RazorPagesMovieContext -udl -outDir Pages/Movies --referenceScriptLibraries --databaseProvider sqlite(sqlServer) // (localDB)
+
+onde:
+-m	O nome do modelo.
+-dc	A classe DbContext a ser usada, incluindo namespace.
+-udl	Use o layout padrão.
+-outDir	O caminho da pasta de saída relativa para criar as exibições.
+--referenceScriptLibraries	Adiciona _ValidationScriptsPartial para editar e criar páginas
+
+
+dotnet ef migrations add InitialCreate >> Cria um ponto de restauração
+dotnet ef database update              >> A primeira vez, cria o banco.
+                                       >> em diante, atualiza a tabela.   
+
+
+

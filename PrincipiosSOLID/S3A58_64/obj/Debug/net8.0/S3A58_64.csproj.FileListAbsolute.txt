@@ -1,0 +1,14 @@
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\obj\Debug\net8.0\S3A58_64.GeneratedMSBuildEditorConfig.editorconfig
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\obj\Debug\net8.0\S3A58_64.AssemblyInfoInputs.cache
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\obj\Debug\net8.0\S3A58_64.AssemblyInfo.cs
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\obj\Debug\net8.0\S3A58_64.csproj.CoreCompileInputs.cache
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\bin\Debug\net8.0\S3A58_64.exe
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\bin\Debug\net8.0\S3A58_64.deps.json
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\bin\Debug\net8.0\S3A58_64.runtimeconfig.json
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\bin\Debug\net8.0\S3A58_64.dll
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\bin\Debug\net8.0\S3A58_64.pdb
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\obj\Debug\net8.0\S3A58_64.dll
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\obj\Debug\net8.0\refint\S3A58_64.dll
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\obj\Debug\net8.0\S3A58_64.pdb
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\obj\Debug\net8.0\S3A58_64.genruntimeconfig.cache
+d:\Curso\CSharp\PrincipiosSOLID\S3A58_64\obj\Debug\net8.0\ref\S3A58_64.dll

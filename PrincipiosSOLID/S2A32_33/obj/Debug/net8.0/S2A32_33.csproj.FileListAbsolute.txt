@@ -1,0 +1,14 @@
+d:\Curso\PrincipiosSOLID\S2A32_33\obj\Debug\net8.0\S2A32_33.GeneratedMSBuildEditorConfig.editorconfig
+d:\Curso\PrincipiosSOLID\S2A32_33\obj\Debug\net8.0\S2A32_33.AssemblyInfoInputs.cache
+d:\Curso\PrincipiosSOLID\S2A32_33\obj\Debug\net8.0\S2A32_33.AssemblyInfo.cs
+d:\Curso\PrincipiosSOLID\S2A32_33\obj\Debug\net8.0\S2A32_33.csproj.CoreCompileInputs.cache
+d:\Curso\PrincipiosSOLID\S2A32_33\bin\Debug\net8.0\S2A32_33.exe
+d:\Curso\PrincipiosSOLID\S2A32_33\bin\Debug\net8.0\S2A32_33.deps.json
+d:\Curso\PrincipiosSOLID\S2A32_33\bin\Debug\net8.0\S2A32_33.runtimeconfig.json
+d:\Curso\PrincipiosSOLID\S2A32_33\bin\Debug\net8.0\S2A32_33.dll
+d:\Curso\PrincipiosSOLID\S2A32_33\bin\Debug\net8.0\S2A32_33.pdb
+d:\Curso\PrincipiosSOLID\S2A32_33\obj\Debug\net8.0\S2A32_33.dll
+d:\Curso\PrincipiosSOLID\S2A32_33\obj\Debug\net8.0\refint\S2A32_33.dll
+d:\Curso\PrincipiosSOLID\S2A32_33\obj\Debug\net8.0\S2A32_33.pdb
+d:\Curso\PrincipiosSOLID\S2A32_33\obj\Debug\net8.0\S2A32_33.genruntimeconfig.cache
+d:\Curso\PrincipiosSOLID\S2A32_33\obj\Debug\net8.0\ref\S2A32_33.dll

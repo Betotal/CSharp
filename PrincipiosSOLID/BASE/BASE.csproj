@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\S1A7\S1A7.csproj" />
+    <ProjectReference Include="..\S1A5\S1A5.csproj" />
+    <ProjectReference Include="..\S1A11\S1A11.csproj" />
+    <ProjectReference Include="..\S2A37_38\S2A37_38.csproj" />
+    <ProjectReference Include="..\S3A58_64\S3A58_64.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

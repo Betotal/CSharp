@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "H4lQTUxPESFRKgEC5khrycKg1TpV89mwmhCVVb1/r7BAMrFKKjHA+BGkXBngYSAlr7j4lpd+N/Y4TBwX95rAzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Curso\\Visual Studio\\CursoCSharp\\Basico\\Exerc_Aula60\\Exerc_Aula60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

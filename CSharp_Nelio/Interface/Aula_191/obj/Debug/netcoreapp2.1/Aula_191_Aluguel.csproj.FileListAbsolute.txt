@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\bin\Debug\netcoreapp2.1\Aula_191_Aluguel.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\bin\Debug\netcoreapp2.1\Aula_191_Aluguel.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\bin\Debug\netcoreapp2.1\Aula_191_Aluguel.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\bin\Debug\netcoreapp2.1\Aula_191_Aluguel.dll
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\bin\Debug\netcoreapp2.1\Aula_191_Aluguel.pdb
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\obj\Debug\netcoreapp2.1\Aula_191_Aluguel.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\obj\Debug\netcoreapp2.1\Aula_191_Aluguel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\obj\Debug\netcoreapp2.1\Aula_191_Aluguel.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\obj\Debug\netcoreapp2.1\Aula_191_Aluguel.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\obj\Debug\netcoreapp2.1\Aula_191_Aluguel.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\obj\Debug\netcoreapp2.1\Aula_191_Aluguel.dll
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\obj\Debug\netcoreapp2.1\Aula_191_Aluguel.pdb
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_191\obj\Debug\netcoreapp2.1\Aula_191_Aluguel.genruntimeconfig.cache

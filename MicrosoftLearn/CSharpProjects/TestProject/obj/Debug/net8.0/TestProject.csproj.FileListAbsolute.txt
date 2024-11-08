@@ -1,0 +1,15 @@
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+d:\Curso\CSharp\MicrosoftLearn\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json

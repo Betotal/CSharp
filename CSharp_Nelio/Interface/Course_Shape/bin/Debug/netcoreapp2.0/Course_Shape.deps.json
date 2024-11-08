@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Course_Shape/1.0.0": {
+        "runtime": {
+          "Course_Shape.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Course_Shape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

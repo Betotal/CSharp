@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\bin\Debug\netcoreapp2.1\Prim_Exerc.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\bin\Debug\netcoreapp2.1\Prim_Exerc.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\bin\Debug\netcoreapp2.1\Prim_Exerc.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\bin\Debug\netcoreapp2.1\Prim_Exerc.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\bin\Debug\netcoreapp2.1\Prim_Exerc.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\obj\Debug\netcoreapp2.1\Prim_Exerc.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\obj\Debug\netcoreapp2.1\Prim_Exerc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\obj\Debug\netcoreapp2.1\Prim_Exerc.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\obj\Debug\netcoreapp2.1\Prim_Exerc.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\obj\Debug\netcoreapp2.1\Prim_Exerc.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\obj\Debug\netcoreapp2.1\Prim_Exerc.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\obj\Debug\netcoreapp2.1\Prim_Exerc.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Prim_Exerc\obj\Debug\netcoreapp2.1\Prim_Exerc.genruntimeconfig.cache

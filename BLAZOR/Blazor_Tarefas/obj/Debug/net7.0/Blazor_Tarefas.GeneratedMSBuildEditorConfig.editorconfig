@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Blazor_Tarefas
+build_property.RootNamespace = Blazor_Tarefas
+build_property.ProjectDir = D:\Curso\BLAZOR\Blazor_Tarefas\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Curso\BLAZOR\Blazor_Tarefas
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/Pages/DataBinding.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YUJpbmRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/Pages/Evento1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRvMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/Shared/Alerta.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFsZXJ0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/Shared/ListaGenerica.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExpc3RhR2VuZXJpY2EucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/Shared/TarefaIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRhcmVmYUluZGl2aWR1YWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/Shared/Tarefas.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRhcmVmYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-va7jdnl3wv
+
+[D:/Curso/BLAZOR/Blazor_Tarefas/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-f5wjmtz1jx

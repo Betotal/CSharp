@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\bin\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\bin\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\bin\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\bin\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\bin\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\obj\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\obj\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\obj\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\obj\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\obj\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\obj\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\obj\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Matriz_Aula80\obj\Debug\netcoreapp2.1\Exerc_Matriz_Aula80.genruntimeconfig.cache

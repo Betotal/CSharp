@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\obj\Debug\netcoreapp2.1\Aula126_UpDownCast.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\obj\Debug\netcoreapp2.1\Aula126_UpDownCast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\obj\Debug\netcoreapp2.1\Aula126_UpDownCast.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\obj\Debug\netcoreapp2.1\Aula126_UpDownCast.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\obj\Debug\netcoreapp2.1\Aula126_UpDownCast.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\bin\Debug\netcoreapp2.1\Aula126_UpDownCast.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\bin\Debug\netcoreapp2.1\Aula126_UpDownCast.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\bin\Debug\netcoreapp2.1\Aula126_UpDownCast.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\bin\Debug\netcoreapp2.1\Aula126_UpDownCast.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\bin\Debug\netcoreapp2.1\Aula126_UpDownCast.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\obj\Debug\netcoreapp2.1\Aula126_UpDownCast.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\obj\Debug\netcoreapp2.1\Aula126_UpDownCast.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula126_UpDownCast\obj\Debug\netcoreapp2.1\Aula126_UpDownCast.genruntimeconfig.cache

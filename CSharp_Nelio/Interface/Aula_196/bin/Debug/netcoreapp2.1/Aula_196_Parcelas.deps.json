@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Aula_196_Parcelas/1.0.0": {
+        "runtime": {
+          "Aula_196_Parcelas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_196_Parcelas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

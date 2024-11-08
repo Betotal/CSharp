@@ -1,0 +1,23 @@
+@startuml
+    class Pessoa{
+        +string Nome
+        +string Endereco
+        +string tipoDoc
+        +string Cpf
+
+        +Pessoa()
+        +Pessoa(string Nome, string Documento)
+    }
+    Pessoa <- Funcionario : é um
+
+    class Funcionario{
+        +int Registro
+        +string Empresa
+        +string pessoaCpf
+
+        +Funcionario()
+        +Funcionario(int Registro, string Empresa, string pessoaCpf)
+    }
+
+
+@enduml

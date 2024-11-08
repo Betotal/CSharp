@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\bin\Debug\netcoreapp2.1\Aula142_Excecoes.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\bin\Debug\netcoreapp2.1\Aula142_Excecoes.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\bin\Debug\netcoreapp2.1\Aula142_Excecoes.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\bin\Debug\netcoreapp2.1\Aula142_Excecoes.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\bin\Debug\netcoreapp2.1\Aula142_Excecoes.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\obj\Debug\netcoreapp2.1\Aula142_Excecoes.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\obj\Debug\netcoreapp2.1\Aula142_Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\obj\Debug\netcoreapp2.1\Aula142_Excecoes.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\obj\Debug\netcoreapp2.1\Aula142_Excecoes.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\obj\Debug\netcoreapp2.1\Aula142_Excecoes.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\obj\Debug\netcoreapp2.1\Aula142_Excecoes.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\obj\Debug\netcoreapp2.1\Aula142_Excecoes.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula142_Excecoes\obj\Debug\netcoreapp2.1\Aula142_Excecoes.genruntimeconfig.cache

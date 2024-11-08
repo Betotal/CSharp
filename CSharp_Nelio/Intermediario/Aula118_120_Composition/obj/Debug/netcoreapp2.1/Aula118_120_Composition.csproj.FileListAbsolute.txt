@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\bin\Debug\netcoreapp2.1\Aula118_120_Composition.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\bin\Debug\netcoreapp2.1\Aula118_120_Composition.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\bin\Debug\netcoreapp2.1\Aula118_120_Composition.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\bin\Debug\netcoreapp2.1\Aula118_120_Composition.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\bin\Debug\netcoreapp2.1\Aula118_120_Composition.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\obj\Debug\netcoreapp2.1\Aula118_120_Composition.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\obj\Debug\netcoreapp2.1\Aula118_120_Composition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\obj\Debug\netcoreapp2.1\Aula118_120_Composition.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\obj\Debug\netcoreapp2.1\Aula118_120_Composition.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\obj\Debug\netcoreapp2.1\Aula118_120_Composition.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\obj\Debug\netcoreapp2.1\Aula118_120_Composition.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\obj\Debug\netcoreapp2.1\Aula118_120_Composition.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula118_120_Composition\obj\Debug\netcoreapp2.1\Aula118_120_Composition.genruntimeconfig.cache

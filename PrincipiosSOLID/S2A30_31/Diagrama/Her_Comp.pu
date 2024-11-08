@@ -1,0 +1,62 @@
+@startuml
+    together {
+        package Heranca{
+            class Animal{
+                + integer Idade
+
+                + void Comer()
+                + void Dormir()   
+                + void Andar()
+            }
+
+            class Homem{
+                Animal
+            }
+            class Gato {
+            }
+            class Sardinha{
+            }
+
+            note right of Sardinha
+                Sardinha não Andar
+            end note      
+
+            Animal <|-- Homem
+            Animal <|-- Gato
+            Animal <|-- Sardinha
+        }
+    
+        package Composicao{
+            class Animal2{
+                + integer Idade
+
+                + void Comer()
+                + void Dormir()   
+            }
+            together {
+            class Homem2   {    }
+            class Gato2    {    }
+            class ComportamentoAndar{   }
+            }
+            together {
+            class Sardinha2{    }
+            class ComportamentoNadar{   }
+            }
+
+            together{
+            class Piriquito{    }
+            class ComportamentoVoar{   }
+            }
+
+
+            Homem2 *-- Animal2
+            Gato2  *-- Animal2
+            Homem2 *-- ComportamentoAndar
+            Gato2  *-- ComportamentoAndar
+            Sardinha2 *-- Animal2
+            Sardinha2 *-- ComportamentoNadar
+            Piriquito *-- Animal2
+            Piriquito *-- ComportamentoVoar
+        }
+    }
+@enduml

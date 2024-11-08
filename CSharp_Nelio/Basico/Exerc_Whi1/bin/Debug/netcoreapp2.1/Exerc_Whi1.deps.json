@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Exerc_Whi1/1.0.0": {
+        "runtime": {
+          "Exerc_Whi1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exerc_Whi1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

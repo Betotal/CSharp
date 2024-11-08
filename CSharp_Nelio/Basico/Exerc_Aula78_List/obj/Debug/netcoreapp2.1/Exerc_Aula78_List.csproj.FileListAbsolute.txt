@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\bin\Debug\netcoreapp2.1\Exerc_Aula78_List.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\bin\Debug\netcoreapp2.1\Exerc_Aula78_List.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\bin\Debug\netcoreapp2.1\Exerc_Aula78_List.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\bin\Debug\netcoreapp2.1\Exerc_Aula78_List.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\bin\Debug\netcoreapp2.1\Exerc_Aula78_List.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\obj\Debug\netcoreapp2.1\Exerc_Aula78_List.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\obj\Debug\netcoreapp2.1\Exerc_Aula78_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\obj\Debug\netcoreapp2.1\Exerc_Aula78_List.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\obj\Debug\netcoreapp2.1\Exerc_Aula78_List.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\obj\Debug\netcoreapp2.1\Exerc_Aula78_List.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\obj\Debug\netcoreapp2.1\Exerc_Aula78_List.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\obj\Debug\netcoreapp2.1\Exerc_Aula78_List.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula78_List\obj\Debug\netcoreapp2.1\Exerc_Aula78_List.genruntimeconfig.cache

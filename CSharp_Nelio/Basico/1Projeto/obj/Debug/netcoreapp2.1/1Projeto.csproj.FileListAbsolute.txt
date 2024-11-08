@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\bin\Debug\netcoreapp2.1\1Projeto.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\bin\Debug\netcoreapp2.1\1Projeto.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\bin\Debug\netcoreapp2.1\1Projeto.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\bin\Debug\netcoreapp2.1\1Projeto.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\bin\Debug\netcoreapp2.1\1Projeto.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\obj\Debug\netcoreapp2.1\1Projeto.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\obj\Debug\netcoreapp2.1\1Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\obj\Debug\netcoreapp2.1\1Projeto.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\obj\Debug\netcoreapp2.1\1Projeto.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\obj\Debug\netcoreapp2.1\1Projeto.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\obj\Debug\netcoreapp2.1\1Projeto.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\obj\Debug\netcoreapp2.1\1Projeto.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\1Projeto\obj\Debug\netcoreapp2.1\1Projeto.genruntimeconfig.cache

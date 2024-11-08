@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\bin\Debug\netcoreapp2.1\Aula121_StringBuilder.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\bin\Debug\netcoreapp2.1\Aula121_StringBuilder.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\bin\Debug\netcoreapp2.1\Aula121_StringBuilder.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\bin\Debug\netcoreapp2.1\Aula121_StringBuilder.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\bin\Debug\netcoreapp2.1\Aula121_StringBuilder.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\obj\Debug\netcoreapp2.1\Aula121_StringBuilder.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\obj\Debug\netcoreapp2.1\Aula121_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\obj\Debug\netcoreapp2.1\Aula121_StringBuilder.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\obj\Debug\netcoreapp2.1\Aula121_StringBuilder.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\obj\Debug\netcoreapp2.1\Aula121_StringBuilder.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\obj\Debug\netcoreapp2.1\Aula121_StringBuilder.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\obj\Debug\netcoreapp2.1\Aula121_StringBuilder.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula121_StringBuilder\obj\Debug\netcoreapp2.1\Aula121_StringBuilder.genruntimeconfig.cache

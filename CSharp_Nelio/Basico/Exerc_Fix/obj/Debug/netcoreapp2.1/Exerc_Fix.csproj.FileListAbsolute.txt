@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\bin\Debug\netcoreapp2.1\Exerc_Fix.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\bin\Debug\netcoreapp2.1\Exerc_Fix.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\bin\Debug\netcoreapp2.1\Exerc_Fix.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\bin\Debug\netcoreapp2.1\Exerc_Fix.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\bin\Debug\netcoreapp2.1\Exerc_Fix.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\obj\Debug\netcoreapp2.1\Exerc_Fix.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\obj\Debug\netcoreapp2.1\Exerc_Fix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\obj\Debug\netcoreapp2.1\Exerc_Fix.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\obj\Debug\netcoreapp2.1\Exerc_Fix.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\obj\Debug\netcoreapp2.1\Exerc_Fix.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\obj\Debug\netcoreapp2.1\Exerc_Fix.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\obj\Debug\netcoreapp2.1\Exerc_Fix.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Fix\obj\Debug\netcoreapp2.1\Exerc_Fix.genruntimeconfig.cache

@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BASE/1.0.0": {
+        "dependencies": {
+          "S1A11": "1.0.0",
+          "S1A5": "1.0.0",
+          "S1A7": "1.0.0",
+          "S2A37_38": "1.0.0",
+          "S3A58_64": "1.0.0"
+        },
+        "runtime": {
+          "BASE.dll": {}
+        }
+      },
+      "S1A11/1.0.0": {
+        "runtime": {
+          "S1A11.dll": {}
+        }
+      },
+      "S1A5/1.0.0": {
+        "runtime": {
+          "S1A5.dll": {}
+        }
+      },
+      "S1A7/1.0.0": {
+        "runtime": {
+          "S1A7.dll": {}
+        }
+      },
+      "S2A37_38/1.0.0": {
+        "runtime": {
+          "S2A37_38.dll": {}
+        }
+      },
+      "S3A58_64/1.0.0": {
+        "runtime": {
+          "S3A58_64.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BASE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S1A11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S1A5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S1A7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S2A37_38/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S3A58_64/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

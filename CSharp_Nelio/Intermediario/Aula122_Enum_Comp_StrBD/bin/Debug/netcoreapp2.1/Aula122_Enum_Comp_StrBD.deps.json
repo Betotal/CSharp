@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Aula122_Enum_Comp_StrBD/1.0.0": {
+        "runtime": {
+          "Aula122_Enum_Comp_StrBD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula122_Enum_Comp_StrBD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+dotnet new mvc    -o <nome> - Cria estrutura MVC - MODEL, VIEW, CONTROLLER
+
+Criar Modelo
+
+Comando para criação do CRUD - MVC
+dotnet aspnet-codegenerator controller -name MoviesController -m Movie -dc MvcMovie.Data.MvcMovieContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries --databaseProvider sqlite(sqlServer) // (localDB)
+
+
+onde:
+-M	                        O nome do modelo.
+-dc	                        O contexto de dados.
+--relativeFolderPath	        O caminho da pasta de saída relativa para criar os arquivos.
+--useDefaultLayout|-udl	        O layout padrão deve ser usado para as exibições.
+--referenceScriptLibraries	Adiciona _ValidationScriptsPartial para Editar e Criar páginas.
+--databaseProvider sqlite	Especifique que DbContext deve usar o SQLite em vez do SQL Server.
+
+
+dotnet ef migrations add InitialCreate >> Cria um ponto de restauração
+dotnet ef database update              >> A primeira vez, cria o banco.
+                                       >> em diante, atualiza a tabela.   
+
+
+

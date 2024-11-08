@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yd2/Z7bzXp/mmhpkicvursSnYmL90qqi3Xk9l0Jhn4nbF0j85ZycO+xOw6MeyXM2zMcPWEZn+4/qzwMIjbQAlQ==",
+  "success": true,
+  "projectFilePath": "D:\\Curso\\Visual Studio\\CursoCSharp\\Interface\\Course_Shape\\Course_Shape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\betot\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

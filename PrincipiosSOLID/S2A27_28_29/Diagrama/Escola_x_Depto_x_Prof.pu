@@ -1,0 +1,28 @@
+@startuml
+    class Escola{
+        +String Nome
+        +List Departamento
+
+        +void AddDepartamento(Escola, Departamento)
+
+        +void Dispose(Dispose departamento)
+
+    }
+
+    class Departamento{
+        -String Escola
+        -String Nome
+        +List Professor
+
+        +void Dispose()
+    }
+
+    class Professor{
+        +String Nome 
+
+        +void Dispose()
+    }
+
+    Escola *-- Departamento : Tem um (Não pode existir)
+    Departamento o-- Professor : Tem um (pode existir)
+@enduml

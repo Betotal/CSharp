@@ -1,0 +1,91 @@
+******************************************************************************
+Comando SQL para SQLLocalDB:
+
+SqlLocalDB.exe
+{
+      [ create   | c ] <instance-name> <instance-version> [-s ]
+    | [ delete   | d ] <instance-name>
+    | [ start    | s ] <instance-name>
+    | [ stop     | p ] <instance-name>  [ -i ] [ -k ]
+    | [ share    | h ] ["<user_SID>" | "<user_account>" ] "<private-name>" "<shared-name>"
+    | [ unshare  | u ] "<shared-name>"
+    | [ info     | i ] <instance-name>
+    | [ versions | v ]
+    | [ trace    | t ] [ on | off ]
+    | [ help     | -? ]
+}
+
+
+Para instanciar:
+(LocalDB)\<instance-name>
+
+
+String de Conexão:
+builder.Services.AddDbContext<TodoContexto>
+         (op => op.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB; Initial Catalog=CRUD_VSCode; Integrated Security=True;"));
+
+
+Modelo >>
+Modelo:
+
+using System.ComponentModel.DataAnnotations;
+
+
+namespace RazorPagesFilmes.Modelo
+{
+    public class Filme
+    {
+        public int id { get; set; }
+        public string titulo { get; set; } = string.Empty;
+        [DataType(DataType.Date)]
+        public DateTime dataLancto { get; set; }
+        public string genero { get; set; } = string.Empty;
+        public decimal preco { get; set; }
+    }
+}
+
+
+dotnet new razor  -o <nome> - Cria estrutura razor
+dotnet new webapp -o <nome> - Cria estrutura razor
+dotnet new webapi -o <nome> - Cria estrutura com controller
+dotnet new mvc    -o <nome> - Cria estrutura MVC - MODEL, VIEW, CONTROLLER
+
+Contexto.cs
+
+
+using Microsoft.EntityFrameworkCore;
+
+namespace RazorPagesFilmes.Modelo
+{
+    public class TodoContexto:DbContext
+    {
+        public TodoContexto(DbContextOptions<TodoContexto> options) :base(options)
+        {
+
+        }
+        public DbSet<Filme> Filmes {get; set;}
+    }
+}
+
+
+Instalar os nuget de Dependencias
+
+dotnet tool install -g dotnet-ef             //instala o dotnet-ef
+dotnet tool install -g aspnet-codegenerator  // instala o gerador de modelo
+
+
+Comando para criação do CRUD - Razor Pages
+dotnet aspnet-codegenerator razorpage -m Movie -dc RazorPagesMovie.Data.RazorPagesMovieContext -udl -outDir Pages/Movies --referenceScriptLibraries --databaseProvider sqlite(sqlServer) // (localDB)
+
+onde:
+-m	O nome do modelo.
+-dc	A classe DbContext a ser usada, incluindo namespace.
+-udl	Use o layout padrão.
+-outDir	O caminho da pasta de saída relativa para criar as exibições.
+--referenceScriptLibraries	Adiciona _ValidationScriptsPartial para editar e criar páginas
+
+
+dotnet ef migrations add InitialCreate >> Cria um ponto de restauração
+dotnet ef database update              >> A primeira vez, cria o banco.
+                                       >> em diante, atualiza a tabela.   
+

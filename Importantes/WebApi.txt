@@ -1,0 +1,44 @@
+dotnet new webapi -o <nome> 
+
+instalar:
+dotnet add package Microsoft.EntityFrameworkCore.InMemory
+		Para que seja usado um banco em memoria (Configurado no builder)
+
+Para utilizar o InMemory, é necessário criar o Contexto e criar a builder no programa.cs, para que não seja usado a opção default, que é SQLServer.
+
+
+Criar Contexto:
+using Api_tarefas.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace Api_tarefas.Contexto
+{
+    public class TarefaItemContexto : DbContext
+    {
+        public TarefaItemContexto(DbContextOptions<TarefaItemContexto> options) : base(options)
+        {
+
+        }
+        public DbSet<TarefaItem> Tarefas {get; set;} = null!;
+    }
+}
+
+Criar builder no Program.cs
+builder.Services.AddDbContext<TarefaItemContexto>(op => op.UseInMemoryDatabase("TarefaList"));
+
+dotnet aspnet-codegenerator controller -name TarefaItemsController -async -api -m TarefaItem -dc TarefaItemContexto -outDir Controllers
+
+Onde:
+-M	                        O nome do modelo.
+-name    			Nome do controller
+-dc	                        O contexto de dados
+-outDir 			Pasta de Saida (onde será gravado)
+
+Para visualizar:
+http://localhost:<porta>/<rota><controlador sem Controller>
+
+
+
+Instalar nuget (para comunicação com a API, para uso do json) :
+flurl
+flurl.Http

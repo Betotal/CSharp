@@ -1,0 +1,33 @@
+
+Instalar os nuget de Dependencias
+
+Microsoft.EntityFrameworkCore.Design              - para uso do modelo (MODEL)
+Microsoft.EntityFrameworkCore.SqlServer           - Para usar o SQLServer
+Microsoft.EntityFrameworkCore.Tools               - Para instalação de code generator
+Microsoft.VisualStudio.Web.CodeGeneration.Core    - Para geração da estrutura, usando o Modelo (Contexto e String de conexão)
+Microsoft.VisualStudio.Web.CodeGeneration.Design  - Para geração do modelo
+
+
+dotnet tool install -g dotnet-ef             // instala o dotnet-ef noi VSCode, para geração da estrutura
+dotnet tool install -g aspnet-codegenerator  // instala o gerador de modelo
+
+dotnet aspnet-codegenerator <argumentos>
+area	        Faz scaffold de uma área
+controlador	Faz scaffold de um controlador
+identity	Fazem scaffold Identity
+razorpage	Fazem scaffold de Páginas do Razor
+view	        Faz scaffolds de um modo de exibição
+
+
+dotnet new razor  -o <nome> - Cria estrutura razor
+dotnet new webapp -o <nome> - Cria estrutura razor
+dotnet new mvc    -o <nome> - Cria estrutura MVC - MODEL, VIEW, CONTROLLER
+dodotnet new webapi -o <nome> - Cria estrutura para API do .Core
+
+dotnet ef migrations add InitialCreate >> Cria um ponto de restauração
+dotnet ef database update              >> A primeira vez, cria o banco.
+                                       >> em diante, atualiza a tabela.   
+
+
+
+

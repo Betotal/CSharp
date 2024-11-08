@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Exerc_Seq1/1.0.0": {
+        "runtime": {
+          "Exerc_Seq1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exerc_Seq1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

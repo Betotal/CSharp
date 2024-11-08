@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\bin\Debug\netcoreapp2.1\Aula130_131_Exercicio.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\bin\Debug\netcoreapp2.1\Aula130_131_Exercicio.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\bin\Debug\netcoreapp2.1\Aula130_131_Exercicio.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\bin\Debug\netcoreapp2.1\Aula130_131_Exercicio.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\bin\Debug\netcoreapp2.1\Aula130_131_Exercicio.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\obj\Debug\netcoreapp2.1\Aula130_131_Exercicio.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\obj\Debug\netcoreapp2.1\Aula130_131_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\obj\Debug\netcoreapp2.1\Aula130_131_Exercicio.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\obj\Debug\netcoreapp2.1\Aula130_131_Exercicio.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\obj\Debug\netcoreapp2.1\Aula130_131_Exercicio.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\obj\Debug\netcoreapp2.1\Aula130_131_Exercicio.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\obj\Debug\netcoreapp2.1\Aula130_131_Exercicio.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula130_131_Exercicio\obj\Debug\netcoreapp2.1\Aula130_131_Exercicio.genruntimeconfig.cache

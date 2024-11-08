@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\bin\Debug\netcoreapp2.1\Exerc_Aula71_Array.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\bin\Debug\netcoreapp2.1\Exerc_Aula71_Array.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\bin\Debug\netcoreapp2.1\Exerc_Aula71_Array.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\bin\Debug\netcoreapp2.1\Exerc_Aula71_Array.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\bin\Debug\netcoreapp2.1\Exerc_Aula71_Array.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\obj\Debug\netcoreapp2.1\Exerc_Aula71_Array.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\obj\Debug\netcoreapp2.1\Exerc_Aula71_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\obj\Debug\netcoreapp2.1\Exerc_Aula71_Array.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\obj\Debug\netcoreapp2.1\Exerc_Aula71_Array.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\obj\Debug\netcoreapp2.1\Exerc_Aula71_Array.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\obj\Debug\netcoreapp2.1\Exerc_Aula71_Array.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\obj\Debug\netcoreapp2.1\Exerc_Aula71_Array.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula71_Array\obj\Debug\netcoreapp2.1\Exerc_Aula71_Array.genruntimeconfig.cache

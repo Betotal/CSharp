@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Aula145_Fix_Excecoes/1.0.0": {
+        "runtime": {
+          "Aula145_Fix_Excecoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula145_Fix_Excecoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

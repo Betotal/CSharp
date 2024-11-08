@@ -1,0 +1,372 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Curso\\CSharp\\PrincipiosSOLID\\BASE\\BASE.csproj": {}
+  },
+  "projects": {
+    "d:\\Curso\\CSharp\\PrincipiosSOLID\\BASE\\BASE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Curso\\CSharp\\PrincipiosSOLID\\BASE\\BASE.csproj",
+        "projectName": "BASE",
+        "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\BASE\\BASE.csproj",
+        "packagesPath": "C:\\Users\\Familia Reis\\.nuget\\packages\\",
+        "outputPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\BASE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Familia Reis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A11\\S1A11.csproj": {
+                "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A11\\S1A11.csproj"
+              },
+              "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A5\\S1A5.csproj": {
+                "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A5\\S1A5.csproj"
+              },
+              "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A7\\S1A7.csproj": {
+                "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A7\\S1A7.csproj"
+              },
+              "d:\\Curso\\CSharp\\PrincipiosSOLID\\S2A37_38\\S2A37_38.csproj": {
+                "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S2A37_38\\S2A37_38.csproj"
+              },
+              "d:\\Curso\\CSharp\\PrincipiosSOLID\\S3A58_64\\S3A58_64.csproj": {
+                "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S3A58_64\\S3A58_64.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A11\\S1A11.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A11\\S1A11.csproj",
+        "projectName": "S1A11",
+        "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A11\\S1A11.csproj",
+        "packagesPath": "C:\\Users\\Familia Reis\\.nuget\\packages\\",
+        "outputPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A11\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Familia Reis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A5\\S1A5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A5\\S1A5.csproj",
+        "projectName": "S1A5",
+        "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A5\\S1A5.csproj",
+        "packagesPath": "C:\\Users\\Familia Reis\\.nuget\\packages\\",
+        "outputPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Familia Reis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A7\\S1A7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A7\\S1A7.csproj",
+        "projectName": "S1A7",
+        "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A7\\S1A7.csproj",
+        "packagesPath": "C:\\Users\\Familia Reis\\.nuget\\packages\\",
+        "outputPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S1A7\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Familia Reis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Curso\\CSharp\\PrincipiosSOLID\\S2A37_38\\S2A37_38.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S2A37_38\\S2A37_38.csproj",
+        "projectName": "S2A37_38",
+        "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S2A37_38\\S2A37_38.csproj",
+        "packagesPath": "C:\\Users\\Familia Reis\\.nuget\\packages\\",
+        "outputPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S2A37_38\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Familia Reis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Curso\\CSharp\\PrincipiosSOLID\\S3A58_64\\S3A58_64.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S3A58_64\\S3A58_64.csproj",
+        "projectName": "S3A58_64",
+        "projectPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S3A58_64\\S3A58_64.csproj",
+        "packagesPath": "C:\\Users\\Familia Reis\\.nuget\\packages\\",
+        "outputPath": "d:\\Curso\\CSharp\\PrincipiosSOLID\\S3A58_64\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Familia Reis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

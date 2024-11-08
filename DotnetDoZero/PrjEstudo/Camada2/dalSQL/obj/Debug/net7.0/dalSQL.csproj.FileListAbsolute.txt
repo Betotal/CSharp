@@ -1,0 +1,17 @@
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\bin\Debug\net7.0\dalSQL.deps.json
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\bin\Debug\net7.0\dalSQL.dll
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\bin\Debug\net7.0\dalSQL.pdb
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\bin\Debug\net7.0\Modelo.dll
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\bin\Debug\net7.0\Modelo.pdb
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\dalSQL.csproj.AssemblyReference.cache
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\dalSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\dalSQL.AssemblyInfoInputs.cache
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\dalSQL.AssemblyInfo.cs
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\dalSQL.csproj.CoreCompileInputs.cache
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\dalSQL.csproj.CopyComplete
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\dalSQL.dll
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\refint\dalSQL.dll
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\dalSQL.pdb
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\ref\dalSQL.dll
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\bin\Debug\net7.0\dalSQL.runtimeconfig.json
+D:\Curso\DotnetDoZero\PrjEstudo\Camada2\dalSQL\obj\Debug\net7.0\dalSQL.genruntimeconfig.cache

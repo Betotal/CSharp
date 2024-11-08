@@ -1,0 +1,6 @@
+Gerar Blazor WebAssembly do lado do cliente (sem hospedagem)
+dotnet new blazorwasm
+
+Gerar projeto WebAssembly do lado do servido (com hospedagem ASP .Net Core)
+dotnet new blazorwasm --hosted
+

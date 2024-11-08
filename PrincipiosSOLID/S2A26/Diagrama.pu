@@ -1,0 +1,70 @@
+@startuml
+    class Modificador{
+        - field Private  >> +  
+        # field Proteccted  >> # 
+        ~ field internal  >> ~
+        + field public  >> + 
+        .. 
+        - method Private()  >> - 
+        # Proteccted()  >> # 
+        ~ internal()  >> ~ 
+        + public()  >> +
+    }
+    
+    Modificador -- Relacionamento : Associação
+    Modificador -- Separadores 
+    
+    Relacionamento <-- Relacionamento1 
+    Relacionamento <|-- Relacionamento2 : Herança 
+    Relacionamento *-- Relacionamento3 : Composição
+    Relacionamento o-- Relacionamento4 :  Agregação
+    Class Relacionamento{
+        String string
+    }
+   
+    Class Relacionamento1{
+        String string
+    }
+
+    Class Relacionamento2{
+        String string
+    }
+
+    Class Relacionamento3{
+        String string
+    }
+
+    Class Relacionamento4{
+        String string
+    }
+
+    Class Separadores{
+        Tacejado  
+        ....
+        Grupo
+        ==
+        .. destasque traco ..
+        __ destaque linha __
+        -- destque linha 2 --
+        ==
+        Linha
+        __
+            {static} Method()
+            {abstract} Method1()
+        __
+        Fim das instruções
+        --
+        End of class 
+    }
+
+    note right of Modificador
+        Indicador de modificadores da Classe     
+    end note
+
+    note left of Separadores
+        Teste
+    end note 
+    note left of Separadores::Method
+        Nota no local especifico
+    end note        
+ @enduml

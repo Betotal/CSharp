@@ -1,0 +1,48 @@
+@startuml
+    class Conta{
+        +int Numero
+        +string Titular
+        +double Saldo
+
+        +Deposito() : void
+        +Saque() : void
+    }
+
+    class ContaCorrente{
+        +double Limite
+
+        +DescontoJuros() : void
+    }
+
+    class ContaPoupanca{
+        +dateTime dataAniversario
+        +double rendimento
+
+        +CreditoJuros() : void
+    }
+    Conta <|-- ContaPoupanca
+    Conta <|-- ContaCorrente
+
+    class Program{
+        Saldo:Conta
+
+        Deposito() : ContaCorrente
+        Saque() : ContaCorrente
+        Deposito() : ContaPoupanca
+        Saque() : ContaPoupanca
+    }
+
+    ContaCorrente <- Program
+    ContaPoupanca <- Program
+
+/'    class Movimentacao {
+        +dateTime dataMovto
+        +string tipoMovto
+        +string tipoConta
+        +double Valor
+    }
+
+    Movimentacao <-- ContaCorrente
+    Movimentacao <-- ContaPoupanca
+'/
+@enduml

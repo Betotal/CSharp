@@ -1,0 +1,14 @@
+d:\Curso\PrincipiosSOLID\S1A22\obj\Debug\net8.0\S1A22.GeneratedMSBuildEditorConfig.editorconfig
+d:\Curso\PrincipiosSOLID\S1A22\obj\Debug\net8.0\S1A22.AssemblyInfoInputs.cache
+d:\Curso\PrincipiosSOLID\S1A22\obj\Debug\net8.0\S1A22.AssemblyInfo.cs
+d:\Curso\PrincipiosSOLID\S1A22\obj\Debug\net8.0\S1A22.csproj.CoreCompileInputs.cache
+d:\Curso\PrincipiosSOLID\S1A22\bin\Debug\net8.0\S1A22.exe
+d:\Curso\PrincipiosSOLID\S1A22\bin\Debug\net8.0\S1A22.deps.json
+d:\Curso\PrincipiosSOLID\S1A22\bin\Debug\net8.0\S1A22.runtimeconfig.json
+d:\Curso\PrincipiosSOLID\S1A22\bin\Debug\net8.0\S1A22.dll
+d:\Curso\PrincipiosSOLID\S1A22\bin\Debug\net8.0\S1A22.pdb
+d:\Curso\PrincipiosSOLID\S1A22\obj\Debug\net8.0\S1A22.dll
+d:\Curso\PrincipiosSOLID\S1A22\obj\Debug\net8.0\refint\S1A22.dll
+d:\Curso\PrincipiosSOLID\S1A22\obj\Debug\net8.0\S1A22.pdb
+d:\Curso\PrincipiosSOLID\S1A22\obj\Debug\net8.0\S1A22.genruntimeconfig.cache
+d:\Curso\PrincipiosSOLID\S1A22\obj\Debug\net8.0\ref\S1A22.dll

@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\bin\Debug\netcoreapp2.1\Memb_Static.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\bin\Debug\netcoreapp2.1\Memb_Static.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\bin\Debug\netcoreapp2.1\Memb_Static.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\bin\Debug\netcoreapp2.1\Memb_Static.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\bin\Debug\netcoreapp2.1\Memb_Static.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\obj\Debug\netcoreapp2.1\Memb_Static.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\obj\Debug\netcoreapp2.1\Memb_Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\obj\Debug\netcoreapp2.1\Memb_Static.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\obj\Debug\netcoreapp2.1\Memb_Static.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\obj\Debug\netcoreapp2.1\Memb_Static.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\obj\Debug\netcoreapp2.1\Memb_Static.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\obj\Debug\netcoreapp2.1\Memb_Static.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Memb_Static\obj\Debug\netcoreapp2.1\Memb_Static.genruntimeconfig.cache

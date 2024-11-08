@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\bin\Debug\netcoreapp2.1\Aula_196_Parcelas.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\bin\Debug\netcoreapp2.1\Aula_196_Parcelas.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\bin\Debug\netcoreapp2.1\Aula_196_Parcelas.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\bin\Debug\netcoreapp2.1\Aula_196_Parcelas.dll
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\bin\Debug\netcoreapp2.1\Aula_196_Parcelas.pdb
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\obj\Debug\netcoreapp2.1\Aula_196_Parcelas.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\obj\Debug\netcoreapp2.1\Aula_196_Parcelas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\obj\Debug\netcoreapp2.1\Aula_196_Parcelas.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\obj\Debug\netcoreapp2.1\Aula_196_Parcelas.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\obj\Debug\netcoreapp2.1\Aula_196_Parcelas.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\obj\Debug\netcoreapp2.1\Aula_196_Parcelas.dll
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\obj\Debug\netcoreapp2.1\Aula_196_Parcelas.pdb
+D:\Curso\Visual Studio\CursoCSharp\Interface\Aula_196\obj\Debug\netcoreapp2.1\Aula_196_Parcelas.genruntimeconfig.cache

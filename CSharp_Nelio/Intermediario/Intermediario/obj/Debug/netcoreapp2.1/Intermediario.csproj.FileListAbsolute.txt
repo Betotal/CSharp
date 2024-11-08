@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\bin\Debug\netcoreapp2.1\Intermediario.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\bin\Debug\netcoreapp2.1\Intermediario.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\bin\Debug\netcoreapp2.1\Intermediario.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\bin\Debug\netcoreapp2.1\Intermediario.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\bin\Debug\netcoreapp2.1\Intermediario.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\obj\Debug\netcoreapp2.1\Intermediario.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\obj\Debug\netcoreapp2.1\Intermediario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\obj\Debug\netcoreapp2.1\Intermediario.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\obj\Debug\netcoreapp2.1\Intermediario.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\obj\Debug\netcoreapp2.1\Intermediario.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\obj\Debug\netcoreapp2.1\Intermediario.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\obj\Debug\netcoreapp2.1\Intermediario.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Intermediario\obj\Debug\netcoreapp2.1\Intermediario.genruntimeconfig.cache

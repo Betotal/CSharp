@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\obj\Debug\netcoreapp2.1\Exerc_Aula60.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\obj\Debug\netcoreapp2.1\Exerc_Aula60.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\obj\Debug\netcoreapp2.1\Exerc_Aula60.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\obj\Debug\netcoreapp2.1\Exerc_Aula60.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\obj\Debug\netcoreapp2.1\Exerc_Aula60.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\bin\Debug\netcoreapp2.1\Exerc_Aula60.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\bin\Debug\netcoreapp2.1\Exerc_Aula60.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\bin\Debug\netcoreapp2.1\Exerc_Aula60.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\bin\Debug\netcoreapp2.1\Exerc_Aula60.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\bin\Debug\netcoreapp2.1\Exerc_Aula60.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\obj\Debug\netcoreapp2.1\Exerc_Aula60.dll
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\obj\Debug\netcoreapp2.1\Exerc_Aula60.pdb
+D:\Curso\Visual Studio\CursoCSharp\Basico\Exerc_Aula60\obj\Debug\netcoreapp2.1\Exerc_Aula60.genruntimeconfig.cache

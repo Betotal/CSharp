@@ -1,0 +1,13 @@
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\bin\Debug\netcoreapp2.1\Aula132_Fixacao.deps.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\bin\Debug\netcoreapp2.1\Aula132_Fixacao.runtimeconfig.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\bin\Debug\netcoreapp2.1\Aula132_Fixacao.runtimeconfig.dev.json
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\bin\Debug\netcoreapp2.1\Aula132_Fixacao.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\bin\Debug\netcoreapp2.1\Aula132_Fixacao.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\obj\Debug\netcoreapp2.1\Aula132_Fixacao.csproj.AssemblyReference.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\obj\Debug\netcoreapp2.1\Aula132_Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\obj\Debug\netcoreapp2.1\Aula132_Fixacao.AssemblyInfoInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\obj\Debug\netcoreapp2.1\Aula132_Fixacao.AssemblyInfo.cs
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\obj\Debug\netcoreapp2.1\Aula132_Fixacao.csproj.CoreCompileInputs.cache
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\obj\Debug\netcoreapp2.1\Aula132_Fixacao.dll
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\obj\Debug\netcoreapp2.1\Aula132_Fixacao.pdb
+D:\Curso\Visual Studio\CursoCSharp\Intermediario\Aula132_Fixacao\obj\Debug\netcoreapp2.1\Aula132_Fixacao.genruntimeconfig.cache
