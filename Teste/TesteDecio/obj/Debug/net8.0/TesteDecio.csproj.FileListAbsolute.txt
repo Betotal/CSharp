@@ -1,0 +1,15 @@
+d:\Curso\CSharp\Teste\TesteDecio\bin\Debug\net8.0\TesteDecio.exe
+d:\Curso\CSharp\Teste\TesteDecio\bin\Debug\net8.0\TesteDecio.deps.json
+d:\Curso\CSharp\Teste\TesteDecio\bin\Debug\net8.0\TesteDecio.runtimeconfig.json
+d:\Curso\CSharp\Teste\TesteDecio\bin\Debug\net8.0\TesteDecio.dll
+d:\Curso\CSharp\Teste\TesteDecio\bin\Debug\net8.0\TesteDecio.pdb
+d:\Curso\CSharp\Teste\TesteDecio\obj\Debug\net8.0\TesteDecio.GeneratedMSBuildEditorConfig.editorconfig
+d:\Curso\CSharp\Teste\TesteDecio\obj\Debug\net8.0\TesteDecio.AssemblyInfoInputs.cache
+d:\Curso\CSharp\Teste\TesteDecio\obj\Debug\net8.0\TesteDecio.AssemblyInfo.cs
+d:\Curso\CSharp\Teste\TesteDecio\obj\Debug\net8.0\TesteDecio.csproj.CoreCompileInputs.cache
+d:\Curso\CSharp\Teste\TesteDecio\obj\Debug\net8.0\TesteDecio.sourcelink.json
+d:\Curso\CSharp\Teste\TesteDecio\obj\Debug\net8.0\TesteDecio.dll
+d:\Curso\CSharp\Teste\TesteDecio\obj\Debug\net8.0\refint\TesteDecio.dll
+d:\Curso\CSharp\Teste\TesteDecio\obj\Debug\net8.0\TesteDecio.pdb
+d:\Curso\CSharp\Teste\TesteDecio\obj\Debug\net8.0\TesteDecio.genruntimeconfig.cache
+d:\Curso\CSharp\Teste\TesteDecio\obj\Debug\net8.0\ref\TesteDecio.dll

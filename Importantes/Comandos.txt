@@ -1,23 +1,35 @@
-******************************************************************************
-Comando SQL para SQLLocalDB:
+dotnet --help
 
-SqlLocalDB.exe
-{
-      [ create   | c ] <instance-name> <instance-version> [-s ]
-    | [ delete   | d ] <instance-name>
-    | [ start    | s ] <instance-name>
-    | [ stop     | p ] <instance-name>  [ -i ] [ -k ]
-    | [ share    | h ] ["<user_SID>" | "<user_account>" ] "<private-name>" "<shared-name>"
-    | [ unshare  | u ] "<shared-name>"
-    | [ info     | i ] <instance-name>
-    | [ versions | v ]
-    | [ trace    | t ] [ on | off ]
-    | [ help     | -? ]
+dotnet new <tipo>
+
+dotnet new --list       >> lista os templates disponiveis
+
+dotnet new console -n <nomedoconsole>
+    observação: deve estar na pasta correta
+
+
+Estrutura:
+
+using .....;
+
+namespace <nomeDoProjeto {
+    class Program{
+        static void Main (string[] args){
+            Console.WriteLine ("Hello Word!");
+            
+        }
+    }
 }
 
 
-Para instanciar:
-(LocalDB)\<instance-name>
+*** gerar o debug ***
+Abrir na pasta pelo terminal;
+inserir o comando code . <isso abrirá somente a pasta corrente>
+	criar o Json a partir da pasta corrente, paras o debub.
+	alterar console <launch,json> para: "console": "externalTerminal", 
+
+*********************
+
 
 
 String de Conexão:
