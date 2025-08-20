@@ -1,0 +1,15 @@
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\bin\Debug\net5.0\Aula8.exe
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\bin\Debug\net5.0\Aula8.deps.json
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\bin\Debug\net5.0\Aula8.runtimeconfig.json
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\bin\Debug\net5.0\Aula8.runtimeconfig.dev.json
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\bin\Debug\net5.0\Aula8.dll
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\bin\Debug\net5.0\ref\Aula8.dll
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\bin\Debug\net5.0\Aula8.pdb
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\obj\Debug\net5.0\Aula8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\obj\Debug\net5.0\Aula8.AssemblyInfoInputs.cache
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\obj\Debug\net5.0\Aula8.AssemblyInfo.cs
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\obj\Debug\net5.0\Aula8.csproj.CoreCompileInputs.cache
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\obj\Debug\net5.0\Aula8.dll
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\obj\Debug\net5.0\ref\Aula8.dll
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\obj\Debug\net5.0\Aula8.pdb
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8\obj\Debug\net5.0\Aula8.genruntimeconfig.cache

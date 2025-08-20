@@ -1,0 +1,20 @@
+Linguagem: C#
+    +- .Net (framework) - analogia - Base de conhecimento
+
+Visual Studio - Ferramenta que será utilizada (IDE)
+
+Arquiterura:
+Visual Studio
+    +- Tipo de projeto
+           +- Linguagem
+		  +- CLR (Common Language Runtime)
+
+Em c#, tudo é classe
+
+Programando:
+Todo indice começa no 0
+
+If (condição) {
+    codigo
+} else if (condição){
+	

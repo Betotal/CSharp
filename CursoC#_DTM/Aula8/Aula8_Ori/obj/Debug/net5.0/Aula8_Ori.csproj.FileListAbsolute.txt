@@ -1,0 +1,15 @@
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\bin\Debug\net5.0\Aula8_Ori.exe
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\bin\Debug\net5.0\Aula8_Ori.deps.json
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\bin\Debug\net5.0\Aula8_Ori.runtimeconfig.json
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\bin\Debug\net5.0\Aula8_Ori.runtimeconfig.dev.json
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\bin\Debug\net5.0\Aula8_Ori.dll
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\bin\Debug\net5.0\ref\Aula8_Ori.dll
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\bin\Debug\net5.0\Aula8_Ori.pdb
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\obj\Debug\net5.0\Aula8_Ori.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\obj\Debug\net5.0\Aula8_Ori.AssemblyInfoInputs.cache
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\obj\Debug\net5.0\Aula8_Ori.AssemblyInfo.cs
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\obj\Debug\net5.0\Aula8_Ori.csproj.CoreCompileInputs.cache
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\obj\Debug\net5.0\Aula8_Ori.dll
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\obj\Debug\net5.0\ref\Aula8_Ori.dll
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\obj\Debug\net5.0\Aula8_Ori.pdb
+D:\Jose.Roberto\CursoC#_DTM\Aula8\Aula8_Ori\obj\Debug\net5.0\Aula8_Ori.genruntimeconfig.cache
